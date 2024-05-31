@@ -55,15 +55,36 @@ python dashboard.py
 
 Le tableau de bord sera généré et ouvert dans votre navigateur par défaut.
 
+
 Visualisations
+
 
 Nombre de Guides Touristiques par Langue
 
-Ce graphique à barres montre le nombre de guides touristiques par langue maîtrisée. Les langues sont listées sur l'axe des x et le nombre de guides sur l'axe des y. Les utilisateurs peuvent survoler les barres pour voir les valeurs exactes.
+1. Ce graphe joue un rôle crucial dans notre application de données. Il offre une représentation visuelle claire de la diversité linguistique des guides touristiques au Maroc. Voici pourquoi ce graphique est important :
+
+2. Visualisation de la diversité linguistique : En un coup d'œil, les utilisateurs peuvent voir quelles langues sont les plus représentées parmi les guides touristiques. Cela aide à comprendre la capacité du pays à accueillir des touristes de différentes régions du monde, en offrant des services dans leur langue maternelle.
+
+3. Informations stratégiques pour le tourisme : Pour les autorités touristiques, ce graphique fournit des informations précieuses pour élaborer des stratégies de promotion et d'accueil. Par exemple, s'il y a une forte demande de guides parlant une langue spécifique, il pourrait être avantageux d'investir dans la formation de guides supplémentaires dans cette langue.
+
+4. Prise de décision éclairée : Les entreprises du secteur du tourisme peuvent utiliser ces données pour prendre des décisions éclairées sur la façon de mieux servir leur clientèle internationale. Par exemple, un hôtel peut décider d'offrir des services de conciergerie dans les langues les plus courantes parmi les guides touristiques, afin d'améliorer l'expérience des clients étrangers.
+
+En résumé, ce graphique offre une vue d'ensemble essentielle de la diversité linguistique parmi les guides touristiques au Maroc, ce qui aide les acteurs du secteur du tourisme à mieux comprendre et répondre aux besoins des voyageurs internationaux.
+
 
 Nombre d'Agences de Voyages par Ville
 
-Ce graphique à barres présente le nombre d'agences de voyages dans différentes villes du Maroc. Les villes sont listées sur l'axe des x et le nombre d'agences sur l'axe des y. Les utilisateurs peuvent interagir avec le graphique pour zoomer et explorer les données plus en détail.
+Ce graphique revêt une importance capitale dans notre application de données pour plusieurs raisons :
+
+1. Identification des centres touristiques : En observant la répartition du nombre d'agences de voyages par ville, les utilisateurs peuvent rapidement identifier les principales destinations touristiques au Maroc. Les villes avec un grand nombre d'agences sont souvent des points d'entrée et des hubs pour les voyageurs.
+
+2. Planification de voyages : Pour les touristes en train de planifier leur voyage au Maroc, ce graphique offre des informations cruciales. Ils peuvent voir quelles villes offrent une infrastructure touristique plus développée, ce qui peut influencer leur itinéraire et leurs choix d'hébergement.
+
+3. Analyse de marché pour les entreprises touristiques : Les entreprises du secteur du tourisme peuvent utiliser ces données pour évaluer la concurrence et identifier les opportunités de marché. Par exemple, une compagnie aérienne pourrait décider d'ajouter des vols vers des villes avec un nombre d'agences de voyages plus élevé pour répondre à la demande.
+
+4. Prise de décision pour les investissements touristiques : Les autorités touristiques et les investisseurs peuvent utiliser ces données pour prendre des décisions éclairées sur l'allocation des ressources et des investissements. Par exemple, s'il y a une sous-représentation d'agences de voyages dans certaines régions potentiellement attractives, cela pourrait indiquer un besoin d'infrastructures touristiques supplémentaires.
+
+En combinant la visualisation intuitive des données avec l'interactivité permettant d'afficher le nombre d'agences de voyages et le nom de la ville au survol, ce graphique devient un outil puissant pour comprendre et exploiter le paysage touristique du Maroc. Il fournit des informations stratégiques essentielles pour les touristes individuels, les entreprises du secteur et les décideurs politiques.
 
 Nuitées Réalisées par Destination
 
