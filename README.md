@@ -25,8 +25,8 @@ Pour exécuter ce projet localement, veuillez suivre les étapes suivantes :
 
 1. Clonez le dépôt :
     ```bash
-    git clone https://github.com/votre-utilisateur/votre-repo.git
-    cd votre-repo
+    git clone https://github.com/Amineezzahraouy/Application-Data-visualisation-avec-donn-es-Marocaines-Tourisme-Amine-Ez-zahraouy-Rachid-Benyakhlef-
+    cd Application-Data-visualisation-avec-donn-es-Marocaines-Tourisme-Amine-Ez-zahraouy-Rachid-Benyakhlef-
     ```
 
 2. Créez et activez un environnement virtuel (facultatif mais recommandé) :
