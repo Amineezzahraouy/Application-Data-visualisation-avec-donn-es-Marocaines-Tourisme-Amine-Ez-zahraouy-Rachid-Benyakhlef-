@@ -142,7 +142,7 @@ Le cadrant des **Recettes en Devises** affiche la somme totale des recettes tour
 
 En conclusion, le cadrant des **Recettes en Devises**, avec son filtre par année, est un outil essentiel pour l'analyse et la gestion des performances économiques du secteur touristique. Il permet une compréhension approfondie des tendances financières, soutient la prise de décisions stratégiques et améliore la transparence et la communication des résultats financiers.
 
-## Contributeurs ##
+### Contributeurs 
 
 **Amine Ez-zahraouy**
 **Rachid Benyakhlef** 
